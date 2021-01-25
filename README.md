@@ -1,4 +1,6 @@
+<head>
 <meta name="google-site-verification" content="qK9uJqQlvHoiPuiA6WWuB9u12h1l8zsV7y7qoKHDHQg" />
+  </head>
 
 # dockerignore-templates
 
