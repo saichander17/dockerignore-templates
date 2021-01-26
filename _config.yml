@@ -2,5 +2,3 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-seo-tag
 google_site_verification: qK9uJqQlvHoiPuiA6WWuB9u12h1l8zsV7y7qoKHDHQg
-title: Dockerignore templates
-tagline: A collection of Dockerignore templates
